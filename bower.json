@@ -1,0 +1,23 @@
+{
+  "name": "derekarnold",
+  "version": "1.0.0",
+  "authors": [
+    "Derek Arnold <derek@derekarnold.net>"
+  ],
+  "description": "my website!",
+  "main": "index.html",
+  "license": "BSD",
+  "homepage": "http://derekarnold.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "~3.7.2",
+    "jquery": "~2.1.4"
+  }
+}
